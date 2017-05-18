@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         
         print("World")
         
+        print("Version 1.1 Update!")
+        
     }
 
     override func didReceiveMemoryWarning() {
