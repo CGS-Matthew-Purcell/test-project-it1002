@@ -23,6 +23,8 @@ class ViewController: UIViewController {
         
         print("Feature X")
         
+        print("This service has no search function, lolz")
+        
     }
 
     override func didReceiveMemoryWarning() {
